@@ -15,6 +15,8 @@ Requires:         R-its
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex R-quadprog R-stats R-zoo
 BuildRequires:    R-graphics R-stats R-utils 
 BuildRequires:    R-its 
+BuildRequires:    blas-devel
+BuildRequires:    lapack-devel
 
 %description
 Package for time series analysis and computational finance
