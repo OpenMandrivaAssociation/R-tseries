@@ -1,2 +1,4 @@
+removed_sources:
+  tseries_0.10-27.tar.gz: 5768ddd6d47ac9d6acde7f712d0873fbb3d4745f
 sources:
-  "tseries_0.10-27.tar.gz:"	5768ddd6d47ac9d6acde7f712d0873fbb3d4745f
+  tseries_0.10-30.tar.gz: 400bc2bcf771632f14a2733b4a33d050cad896a7
