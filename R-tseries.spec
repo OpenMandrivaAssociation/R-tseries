@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          0.10.30
-Release:          1
+Release:          2
 Summary:          Time series analysis and computational finance
 Group:            Sciences/Mathematics
 License:          GPL-2
