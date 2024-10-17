@@ -7,7 +7,7 @@ Release:          1
 Summary:          Time series analysis and computational finance
 Group:            Sciences/Mathematics
 License:          GPL-2
-URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
+URL:              https://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/tseries_0.10-32.tar.gz
 Requires:         R-quadprog R-stats R-zoo R-graphics R-stats R-utils R-its
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex
